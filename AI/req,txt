@@ -6,3 +6,5 @@ python.exe -m pip install ipython
 
 python.exe -m pip install sendgrid
 python.exe -m pip install openai-agents
+
+test
