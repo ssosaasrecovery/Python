@@ -1,0 +1,8 @@
+#pip libraries
+python.exe -m pip install python-dotenv
+python.exe -m pip install openai
+python.exe -m pip install python-certifi-win32
+python.exe -m pip install ipython
+
+python.exe -m pip install sendgrid
+python.exe -m pip install openai-agents
