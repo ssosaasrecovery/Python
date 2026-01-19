@@ -7,4 +7,5 @@ python.exe -m pip install ipython
 python.exe -m pip install sendgrid
 python.exe -m pip install openai-agents
 
-test
+#rich is a library for making formatted text output in the terminal
+python.exe -m pip install rich
