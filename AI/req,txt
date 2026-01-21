@@ -9,3 +9,9 @@ python.exe -m pip install openai-agents
 
 #rich is a library for making formatted text output in the terminal
 python.exe -m pip install rich
+
+
+#crewAI
+uv tool install crewai
+crewai create crew my_crew
+crewai run
